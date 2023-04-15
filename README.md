@@ -2,6 +2,12 @@
 
 Simple Svelte wrapper for [Dropbox Chooser API](https://www.dropbox.com/developers/chooser)
 
+## Installation
+
+```sh
+npm install svelte-dropbox-chooser
+```
+
 ## Example
 
 ```svelte
